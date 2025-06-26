@@ -14,4 +14,7 @@ Este proyecto es un ejemplo que utiliza archivos de texto para almacenar y mostr
 nueva linea para comprobar si hago bien
 
 
+para comoprobar la comprobacion que si hago bien
+
+
 
